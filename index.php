@@ -8,7 +8,15 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
-    <a href="" class="navbar-brand"></a>
+    <div class="container">
+    <a href="" class="navbar-brand">CWS</a>
+
+    <ul class="navbar-nav ml-auto">
+        <li class="nav-item"><a href="" class="nav-link">HOME</a></li>
+        <li class="nav-item"><a href="" class="nav-link">logout</a></li>
+    </ul>
+    </div>
+    
 </nav>
     
 </body>
