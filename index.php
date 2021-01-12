@@ -8,16 +8,29 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
-    <div class="container">
-    <a href="" class="navbar-brand">CWS</a>
-
-    <ul class="navbar-nav ml-auto">
-        <li class="nav-item"><a href="" class="nav-link">HOME</a></li>
-        <li class="nav-item"><a href="" class="nav-link">logout</a></li>
+    <a href="" class="navbar-brand"></a>
+    <ul class="navbar-nav ms-auto">
+    <li class="nav-item"><a href="" class="nav-link">Home</a></li>
+    <li class="nav-item"><a href="" class="nav-link">ajg</a></li>
+    <li class="nav-item"><a href="" class="nav-link">services</a></li>
+    <li class="nav-item"><a href="" class="nav-link">yoyooyy</a></li>
+    <li class="nav-item"><a href="" class="nav-link">abpout</a></li>
     </ul>
-    </div>
-    
 </nav>
+<div class="container-fluid">
+<div class="container">
+<div class="row">
+<div class="col-6">
+<form action="" method="">
+
+</form>
+</div>
+<div class="col-6">
+
+</div>
+</div>
+</div>
+</div>
     
 </body>
 </html>
