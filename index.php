@@ -7,6 +7,7 @@
 </head>
 <body>
 
+<<<<<<< HEAD
 <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
     <a href="" class="navbar-brand"></a>
     <ul class="navbar-nav ms-auto">
@@ -30,6 +31,20 @@
 </div>
 </div>
 </div>
+=======
+<?php include "nav.php";?>
+
+
+<div class="container-fluid">
+    <div class="container">
+        <div class="row">
+            <div class="col-9">
+                <h1 class="display-4">Welcome in CWS</h1>
+                <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quis? Dolorum rerum natus totam saepe explicabo sequi optio, aliquid vero ipsam qui maxime, accusantium numquam sint cumque modi harum incidunt.</p>
+            </div>
+        </div>
+    </div>
+>>>>>>> dc861b4d024d86e010f811774c896b1217a55199
 </div>
     
 </body>
