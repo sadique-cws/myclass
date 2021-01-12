@@ -7,17 +7,19 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-danger">
-    <div class="container">
-    <a href="" class="navbar-brand">CWS</a>
+<?php include "nav.php";?>
 
-    <ul class="navbar-nav ml-auto">
-        <li class="nav-item"><a href="" class="nav-link">HOME</a></li>
-        <li class="nav-item"><a href="" class="nav-link">logout</a></li>
-    </ul>
+
+<div class="container-fluid">
+    <div class="container">
+        <div class="row">
+            <div class="col-9">
+                <h1 class="display-4">Welcome in CWS</h1>
+                <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quis? Dolorum rerum natus totam saepe explicabo sequi optio, aliquid vero ipsam qui maxime, accusantium numquam sint cumque modi harum incidunt.</p>
+            </div>
+        </div>
     </div>
-    
-</nav>
+</div>
     
 </body>
 </html>
