@@ -7,7 +7,6 @@
 </head>
 <body>
 
-<<<<<<< HEAD
 <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
     <a href="" class="navbar-brand"></a>
     <ul class="navbar-nav ms-auto">
@@ -31,7 +30,6 @@
 </div>
 </div>
 </div>
-=======
 <?php include "nav.php";?>
 
 
@@ -44,7 +42,6 @@
             </div>
         </div>
     </div>
->>>>>>> dc861b4d024d86e010f811774c896b1217a55199
 </div>
     
 </body>
