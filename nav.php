@@ -3,10 +3,9 @@
     <a href="" class="navbar-brand">CWS</a>
 
     <ul class="navbar-nav ms-auto">
-        <li class="nav-item"><a href="" class="nav-link">HOME</a></li>
-        <li class="nav-item"><a href="" class="btn btn-danger">Apply Online</a></li>
-        <li class="nav-item"><a href="" class="btn btn-info">Student Login</a></li>
+        <li class="nav-item"><a href="" class="btn btn-dark me-2">HOME</a></li>
+        <li class="nav-item"><a href="" class="btn btn-secondary me-2">Apply Online</a></li>
+        <li class="nav-item"><a href="" class="btn btn-info" me-2>Student Login</a></li>
     </ul>
     </div>
-    <h1>MY name is Anjali</h1>
 </nav>
