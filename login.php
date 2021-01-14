@@ -27,16 +27,16 @@
                     
                         <div class="card-body">
                                 <form action="login.php" method="post">
-                                    <div class="mb-3">
+                                    <div class="mb-2">
                                         <label for="">User_name:</label>
                                         <input type="email" name="user_name" placeholder="Enter your email_id." class="w-100"> 
                                     </div>
 
-                                    <div class="mb-3">
+                                    <div class="mb-2">
                                         <label for="">Password:</label>
                                         <input type="text" name="password" placeholder="Enter password." class="w-100">
                                     </div>
-                                    <div class="mb">
+                                    <div class="mb-2">
                                         <input type="submit" name="login" value="Login" class="btn btn-success w-100">
                                     </div>
                                 </form>
