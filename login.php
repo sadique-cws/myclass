@@ -38,7 +38,7 @@
                                         <input type="text" name="password" placeholder="Enter password." class="w-100">
                                     </div>
                                     <div class="mb-2">
-                                        <input type="submit" name="login" value="Login" class="btn btn-success w-100">
+                                        <input type="submit" name="login" value="Login" class="btn btn-info w-100">
                                     </div>
                                 </form>
                         </div>
